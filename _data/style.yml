@@ -9,6 +9,6 @@ highlight: "#e30505" #red
 
 #Image Customization
 #header-image: "../img/header-bg.jpg"
-header-image: "../img/piron-guillaume-y5hQCIn1c6o-unsplash.jpg"
-services-image: "../img/thisisengineering-raeng-sbVu5zitZt0-unsplash,jpg"
+#header-image: "../img/piron-guillaume-y5hQCIn1c6o-unsplash.jpg"
+header-image: "../img/thisisengineering-raeng-sbVu5zitZt0-unsplash,jpg"
 contact-image: "../img/map-image.png"
