@@ -17,19 +17,20 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Resources"
+    text: "what you'll find here"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Ideations"
+        desc: "Simply ideas for medical devices, may have no further R&D into them, just at ideation phase."
+        icon: fas fa-lightbulb #find more at https://fontawesome.com/icons
+      - title: "Designs & Prototypes"
+        desc: "CAD files, PCB schematics, software dumps... all sorts of progressive prototyping and design elements towards a specific medical device idea"
+        icon: fas fa-gear-complex-code
+      #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)" #ex how to add hyperlink
+      - title: "Unmet Medical Needs"
+        desc: "Market research, clinical outreach, physilogical studies, patent searches... certain steps taken to identify a medical need, not necesarrily offering a solution, just an identification of the need"
+        icon: fab fa-suitcase-medical
 
   portfolio:
     title: "Portfolio"
