@@ -14,9 +14,9 @@ en: &DEFAULT_EN
     title: Welcome to my Ideahub!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#resources"
 
-  services:
+  resources:
     title: "Resources"
     text: "what you'll find here"
     section: resources
