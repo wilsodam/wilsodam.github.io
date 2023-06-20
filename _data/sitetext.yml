@@ -26,11 +26,11 @@ en: &DEFAULT_EN
         icon: fas fa-lightbulb #find more at https://fontawesome.com/icons
       - title: "Designs & Prototypes"
         desc: "CAD files, PCB schematics, software dumps... all sorts of progressive prototyping and design elements towards a specific medical device idea"
-        icon: fa-solid fa-heart-pulse
+        icon: fas heart-beat
       #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)" #ex how to add hyperlink
       - title: "Unmet Medical Needs"
         desc: "Market research, clinical outreach, physiological studies, patent searches... an identification of the need"
-        icon: fa-solid fa-hospital
+        icon: fas fa-hospital
 
   portfolio:
     title: "Portfolio"
