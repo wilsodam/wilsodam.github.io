@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: fas fa-lightbulb #find more at https://fontawesome.com/icons
       - title: "Designs & Prototypes"
         desc: "CAD files, PCB schematics, software dumps... all sorts of progressive prototyping and design elements towards a specific medical device idea"
-        icon: fas heartbeat
+        icon: fas fa-heartbeat
       #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)" #ex how to add hyperlink
       - title: "Unmet Medical Needs"
         desc: "Market research, clinical outreach, physiological studies, patent searches... an identification of the need"
