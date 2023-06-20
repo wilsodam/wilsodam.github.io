@@ -26,11 +26,11 @@ en: &DEFAULT_EN
         icon: fas fa-lightbulb #find more at https://fontawesome.com/icons
       - title: "Designs & Prototypes"
         desc: "CAD files, PCB schematics, software dumps... all sorts of progressive prototyping and design elements towards a specific medical device idea"
-        icon: fas fa-heart-pulse
+        icon: fa-solid fa-heart-pulse
       #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)" #ex how to add hyperlink
       - title: "Unmet Medical Needs"
-        desc: "Market research, clinical outreach, physilogical studies, patent searches... certain steps taken to identify a medical need, not necesarrily offering a solution, just an identification of the need"
-        icon: fab fa-hospital
+        desc: "Market research, clinical outreach, physiological studies, patent searches... an identification of the need"
+        icon: fa-solid fa-hospital
 
   portfolio:
     title: "Portfolio"
@@ -109,26 +109,17 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/damen-wilson/
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+      # - name: "Larry Parker"
+        # role: "Lead Marketer"
+        # image: assets/img/team/2.jpg
+        # social:
+          # - url: https://twitter.com
+            # icon: fab fa-twitter
+          # - url: https://facebook.com
+            # icon: fab fa-facebook-f
+          # - url: https://linkedin.com
+            # icon: fab fa-linkedin-in
+      
 
   contact:
     title: "Contact Us"
